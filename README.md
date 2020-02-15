@@ -1,2 +1,2 @@
-# festfinder
-Fest Finder
+# festreet
+Festival & event finder project
